@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sidewaysdesign
 - 👀 I’m interested in designing & developing great user experiences on the web or in print
-- 🌱 I’m currently learning Svelte and always advancing with JS and CSS
+- 🌱 I’m continually advancing my knowledge of JS and CSS, and the infinite possibilities of AI
 - 📫 I can be reached at www.sidewaysdesign.com
 
 <!---
