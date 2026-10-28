@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sidewaysdesign
 - 👀 I’m interested in designing & developing great user experiences on the web or in print
-- 🌱 I’m continually advancing my knowledge of JS and CSS, and the infinite possibilities of AI
+- 🌱 I’m continually advancing my knowledge of design, UX/UI, and the infinite possibilities of AI
 - 📫 I can be reached at www.sidewaysdesign.com
 
 <!---
